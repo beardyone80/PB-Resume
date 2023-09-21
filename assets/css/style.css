@@ -254,6 +254,29 @@ header {
     height: 120px;
 }
 
+
+/*----------------------------------------------------------------Skills */
+.progress {
+    line-height: normal;
+    position: relative;
+    height: 20px;
+    margin-bottom: 4px;
+}
+
+.progress-type {
+    position: absolute;
+    left: 0px;
+    /* bottom: 1px; */
+    font-weight: 400;
+    padding: 3px 30px 2px 10px;
+    color: #fafafa;
+    background-color: rgba(25,25,25,0.2);
+}
+
+.progress-section {
+    margin: 40px 20px;
+}
+
 /*----------------------------------------------------------------Footer */
 
 footer {
