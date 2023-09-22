@@ -330,6 +330,10 @@ header {
     background-color: #fafafa;
 }
 
+.timeline-history {
+    margin-bottom: 30px;
+}
+
 /*----------------------------------------------------------------Contact Form */
 
 .contact-heading {
